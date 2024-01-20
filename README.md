@@ -1,3 +1,3 @@
-# Twin-view-pupillometry-A-dual-lens-solution-
+# Twin-view-pupillometry-A-dual-lens-solution
 The Pupilometer project introduces an advanced device designed for precise and real-time observation of ICU patients' eye pupils. Equipped with a dual-camera system, the device captures live video, allowing dynamic tracking of changes in both the right and left eye pupils. The integrated graphical user interface provides an immediate visual display of the evolving pupil sizes. The project focuses on leveraging machine learning algorithms to achieve high-accuracy pupil detection. The collected data is graphically represented to observe trends and variations, enabling the prediction of potential critical conditions in patients. This innovative Pupilometer serves as a critical tool for healthcare professionals, offering enhanced insights into patient well-being through continuous and accurate monitoring of pupil dynamics.
 
